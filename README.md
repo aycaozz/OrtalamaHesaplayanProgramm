@@ -1,1 +1,5 @@
-# AycaOzseymen#220905006#Q1
+-Eleman sayısını ve elemanlarım kullanicinin belirlediği int tipli, dinamik bir dizi oluşturuldu
+-Double tipli bir fonksiyon ile dizinin elemanlarının aritmetik ortalaması hesaplandı
+-Ortalama hesaplayan forsiyonunun birinci parametresi dizinin birinci elamanını tutan int tipli bir pointer deg ikinci parametresi ise dizinin eleman sayısını tutan int tipli bir pointer değişken oluşturuldu (Call by adress)
+-Void tipli bir fonksiyon ile ortalamadan büyük olan dizi elamanlarını ekrana yazdırınız.
+-Ortalamadan büyükleri tespit eden fonksiyonun birinci parametresi dizinin birinci elamanını tutan int tipli bir pointer değişken, ikinci parametresi ise dizinin eleman sayısını tutan int tipli const data nonconst pointer bir pointer değişken, üçüncü parametresi ise ortalama sonucunu tutan double tipli const reference değişken oluşturuldu. (Call by adress reference)
