@@ -1,4 +1,4 @@
--Eleman sayısını ve elemanlarım kullanicinin belirlediği int tipli, dinamik bir dizi oluşturuldu
+-Eleman sayısını ve elemanları kullanicinin belirlediği int tipli, dinamik bir dizi oluşturuldu
 -Double tipli bir fonksiyon ile dizinin elemanlarının aritmetik ortalaması hesaplandı
 -Ortalama hesaplayan forsiyonunun birinci parametresi dizinin birinci elamanını tutan int tipli bir pointer deg ikinci parametresi ise dizinin eleman sayısını tutan int tipli bir pointer değişken oluşturuldu (Call by adress)
 -Void tipli bir fonksiyon ile ortalamadan büyük olan dizi elamanlarını ekrana yazdırınız.
